@@ -5,12 +5,12 @@
 ## Education: 
 
 Undergraduate BA: 
-<a href="http://catalog.hunter.cuny.edu/preview_program.php?catoid=6&poid=730"> Hunter College </a>
+<a href="http://catalog.hunter.cuny.edu/preview_program.php?catoid=6&poid=730" target="_blank"> Hunter College </a>
 
 Masters: <a href="https://www.ccny.cuny.edu/eas" target="_blank"> City College of New York  </a>
 
 PhD: CUNY Graduate Center 
-<a href="https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Earth-and-Environmental-Sciences"> CUNY Graduate Center  </a>
+<a href="https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Earth-and-Environmental-Sciences" target="_blank"> CUNY Graduate Center  </a>
 
 
 ## Research Interests 

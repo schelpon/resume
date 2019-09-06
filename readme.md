@@ -5,7 +5,7 @@
 ## Education: 
 
 Undergraduate BA: 
-<a href="http://catalog.hunter.cuny.edu/preview_program.php?catoid=6&poid=730" target="_blank"> Hunter College </a>
+[Hunter College](http://catalog.hunter.cuny.edu/preview_program.php?catoid=6&poid=730){:target="_blank"}
 
 Masters: <a href="https://www.ccny.cuny.edu/eas" target="_blank"> City College of New York  </a>
 

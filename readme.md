@@ -9,7 +9,7 @@ Undergraduate BA:
 
 Masters: [City College of New York](https://www.ccny.cuny.edu/eas)
 
-PhD: [CUNY Graduate Center] (https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Earth-and-Environmental-Sciences)
+PhD: [CUNY Graduate Center](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Earth-and-Environmental-Sciences)
 
 
 ## Research Interests 
